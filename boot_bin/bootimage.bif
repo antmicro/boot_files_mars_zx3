@@ -1,6 +1,6 @@
 the_ROM_image:
 {
 	[bootloader]fsbl.elf
-	system_top.bit
+	system_top_initial.bit
 	u-boot.elf
 }
